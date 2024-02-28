@@ -18,4 +18,4 @@
 #            |   |
 #            |   |
 #           10   13
-zed_interfaces/Keypoint3D[18] keypoints
+zed_msgs/Keypoint3D[70] keypoints

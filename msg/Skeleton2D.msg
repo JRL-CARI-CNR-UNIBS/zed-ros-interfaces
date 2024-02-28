@@ -18,4 +18,4 @@
 #            |   |
 #            |   |
 #           10   13
-zed_interfaces/Keypoint2Df[18] keypoints
+zed_msgs/Keypoint2Df[70] keypoints
